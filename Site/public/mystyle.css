@@ -1,0 +1,21 @@
+html,body {
+    height : 100%;
+    width : 100%;
+	margin : 0;
+	padding : 0;
+    background-color : #8C8B8B;
+}
+
+h1{
+    text-align: center;
+    color : #EDAD2D;
+    font-size : 50px;
+}
+
+p{
+    font-size : 15px;
+}
+
+h3{
+    font-size : 20px;
+}

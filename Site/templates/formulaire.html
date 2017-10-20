@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Formulaire Al-Ciné</title>
+        <link rel="stylesheet" href="static/css/mystyle.css" type="text/css" />
+    </head>
+
+    <body>
+    <h2><b>Veuillez separer les elements de la recette par des points virgules, Merci</b></h2>
+
+        <div id="formulaire">
+            <form method="post" action="/addmovies">
+                <p>Titre:          <input type ="text" name="titre" /></p>
+                <p>Genre:          <input type ="text" name="genre" /></p>
+                <p>Boisson:        <input type ="text" name="boisson" /></p>
+                <p>Recette:        <input type ="text" name="recette" /></p>
+                <p>Jeu à boire:    <input type ="text" name="jeu" /></p>
+                <input type ="submit" value="Addmovies" />
+            </form>
+        </div>
+    </body>
+
+</html>

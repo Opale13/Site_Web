@@ -1,0 +1,211 @@
+{
+    "films": [
+        {
+            "boisson": "Cocktail Sith",
+            "genre": "Science fiction",
+            "recette": [
+                "2 doses de rhum a la cerise noir",
+                "2 doses de Schnapps a la cerise",
+                "1 dose de sirop de grenadine",
+                "1 dose de Rhum vanille",
+                "De la Limonade"
+            ],
+            "affiche": "static/images/Star_Wars.jpg",
+            "jeu": "Tu dois boire quand: <br>1) Quelqu'un a un mauvais sentiment a ce sujet <br> 2) C'est leur seul espoir <br> 3) Un hero se fait presque manger par quelque chose",
+            "titre": "Star Wars"
+        },
+        {
+            "boisson": "The Strawberry Capitol Cocktail",
+            "genre": "Action/aventure",
+            "recette": [
+                "2 doses de Jamaican Rum",
+                "5 doses de jus de citron",
+                "Des fraises",
+                "0,75 dose de nectar d'agave"
+            ],
+            "affiche": "static/images/Hunger_Games.jpg",
+            "jeu": "Tu dois boire quand <br> 1) Katniss tire une fleche <br> 2) quelqu'un de trop maquille apparait",
+            "titre": "Hunger Games"
+        },
+        {
+            "boisson": "Harley Quinn's Ace",
+            "genre": "Action",
+            "recette": [
+                "2 doses de liqueur de framboise",
+                "2 doses de liqueur de sureau",
+                "1 dose de Vodka"
+            ],
+            "affiche": "static/images/Batman_VS_Superman.jpg",
+            "jeu": "Tu dois boire quand: <br> 1) quand Batman et superman se rale dessus",
+            "titre": "Batman VS Superman"
+        },
+        {
+            "boisson": "Deadpool Showstopper",
+            "genre": "Action",
+            "recette": [
+                "3 doses de Whisky",
+                "1 dose de Triple Sec",
+                "6 doses de jus de canneberge"
+            ],
+            "affiche": "static/images/Deadpool.jpg",
+            "jeu": "Tu dois boire quand: <br> 1) Deadpool se prend des coups",
+            "titre": "Deadpool"
+        },
+        {
+            "boisson": "coldfront",
+            "genre": "dessin anime/famille",
+            "recette": [
+                "2 doses de liqueur de chocolat blanc",
+                "1 dose de schnapps poivre-menthe",
+                "2 doses de malibu",
+                " lait"
+            ],
+            "affiche": "static/images/Reine_des_neiges.jpg",
+            "jeu": "Tu dois boire quand: <br> 1) quelqu'un chante <br> 2) Elsa utilise sa magie",
+            "titre": "La reine des neige"
+        },
+        {
+            "boisson": "Marge simpson",
+            "genre": "humour",
+            "recette": [
+                "9 doses de vodka",
+                " 1/2 dose de jus d'orange",
+                " 1/2 dose de jus d'ananas",
+                " 9 doses de rhum blanc"
+            ],
+            "affiche": "static/images/Les_simpsons.jpg",
+            "jeu": "Tu dois boire quand: <br> 1) Homer insulte Flanders <br> 2) On voit un cochon",
+            "titre": "Les Simpsons"
+        },
+        {
+            "boisson": "La maison serdaigle",
+            "genre": "fantasy/action",
+            "recette": [
+                "1 dose de vodka a la myrtille",
+                " 2 doses de Schweppes",
+                " 14 myrtilles"
+            ],
+            "affiche": "static/images/Harry_Potter.jpg",
+            "jeu": "Tu dois boire quand:<br> 1) Hermionne leve sa main <br> 2) sa cicatrice lui fait mal <br> 3) quelqu'un cri HARRY",
+            "titre": "Harry Potter"
+        },
+        {
+            "boisson": "La veuve noir",
+            "genre": "Action/Science fiction",
+            "recette": [
+                "1 dose de Vodka",
+                " 1 dose de Khalua",
+                "  2 Espresso"
+            ],
+            "affiche": "static/images/Avengers.jpg",
+            "jeu": "Tu dois boire quand: <br> 1) Stark embete captain america <br> 2) Oeuil de faucon fait une blague pourrie <br> 3) Hulk s'enerve",
+            "titre": "Avengers"
+        },
+        {
+            "boisson": "Frodon sake",
+            "genre": "fantasy/action",
+            "recette": [
+                "2 doses de sake",
+                " 2 doses de liqueur de poire",
+                " 2 feuilles de menthe",
+                " 1/2 cuillere a the de gimgembre"
+            ],
+            "affiche": "static/images/Le_Seigneur_des_Anneaux.jpg",
+            "jeu": "Tu dois boire quand: <br> 1) Quelqu'un a l'air angoisse <br> 2) Tu vois des ongles sales et ronges <br> 3) Quelqu'un dit le mot precieux",
+            "titre": "Le Seigneur des Anneaux"
+        },
+        {
+            "boisson": "professeur x",
+            "genre": "Action",
+            "recette": [
+                "2 doses de Vodka vanille",
+                " 2 doses de vodka espresso",
+                " 1 dose de khalua",
+                " 1 dose de liqueur au caramel",
+                " lait"
+            ],
+            "affiche": "static/images/x-men.jpg",
+            "jeu": "Tu dois boire quand: <br> 1) quelqu'un utilise son pouvoir <br> 2) il y a un flashback",
+            "titre": "x-men"
+        },
+        {
+            "boisson": "Vesper Martini Dry",
+            "genre": "Action/policier",
+            "recette": [
+                "6 doses de gin",
+                " 2 doses de vodka",
+                " 1 dose de lillet blanc"
+            ],
+            "affiche": "static/images/James_Bond.jpg",
+            "jeu": "Tu dois boire quand: <br> 1) James Bond se présente <br> 2) Un mechant rigole <br> 3) James Bond se libere",
+            "titre": "James Bond"
+        },
+        {
+            "boisson": "the walker",
+            "genre": "Action",
+            "recette": [
+                "1 dose de rhum",
+                " 1 dose de rhum coco",
+                " 1 dose de apple pucker",
+                " 1 dose de blue curacao",
+                " 1 dose de soda au citron",
+                " sprite"
+            ],
+            "affiche": "static/images/Fast_and_furious.jpg",
+            "jeu": "Tu dois boire quand: <br> 1) une boite de vitesse est changee",
+            "titre": "Fast and furious"
+        },
+        {
+            "boisson": "cocktail ford",
+            "genre": "aventure",
+            "recette": [
+                "1 dose de tequilla",
+                " 1 dose de whisky",
+                " 2 doses de champagne"
+            ],
+            "affiche": "static/images/indiana_jones.jpg",
+            "jeu": "Tu dois boire quand: indi perd son chapeau, le fouet est utilis�, tu vois un serpent",
+            "titre": "indiana jones"
+        },
+        {
+            "boisson": "Beam Me up scotchie",
+            "genre": "science fiction",
+            "recette": [
+                "2 doses dee scotch",
+                " 1 dose de liqueur de vanille",
+                " Figues"
+            ],
+            "affiche": "static/images/Star_Trek_Into_Darkness.jpg",
+            "jeu": "Tu dois boire quand: McCoy fait une metaphore",
+            "titre": "Star Trek Into Darkness"
+        },
+        {
+            "boisson": "Soli Grail",
+            "genre": "Humour",
+            "recette": [
+                "1 dose de vodka",
+                " 1 dose de rhum",
+                " 1 dose de lait de coco",
+                " 2 dose de jus d'ananas",
+                " vin petillant"
+            ],
+            "affiche": "static/images/Sacre_Graal.jpg",
+            "jeu": "Tu dois boire quand: <br> 1) le roi arthur se presente <br> 2) quelqu'un se trompe en comptant",
+            "titre": "Le Sacre Graal"
+        },
+        {
+            "affiche": "static/images/Nemo.jpg",
+            "genre": "Dessin Anime",
+            "recette": [
+                "1 dose de rhum coco",
+                " 3/4 de dose d'hypnotiq",
+                " 1/2 dose de juse de citron",
+                " 1/4 dose de curacao bleu",
+                " 1/4 de dose de jus d'ananas"
+            ],
+            "boisson": "Dory",
+            "jeu": "Tu dois boire quand: <br> 1) Dory oubli quelque chose <br> 2) il faut faire confiance a quelqu'un ou avoir confiance",
+            "titre": "Le Monde de Nemo"
+        }
+    ]
+}

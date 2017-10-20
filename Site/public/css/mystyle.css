@@ -1,0 +1,96 @@
+html,body {
+    height : 100%;
+    width : 100%;
+    margin : auto;
+    padding : 0;
+    background-color: #336699;
+}
+
+h1{
+    text-align: center;
+    color : #FFFFFF;
+    font-size : 50px;
+    background-color: #0E0046;
+}
+
+h2{
+    font-size : 20px;
+    color: #D4E9FB;
+}
+
+h3{
+    font-size : 20px;
+}
+
+h5{
+    font-style: cursive;
+    font-size: 20px;
+}
+
+p{
+    font-size : 20px;
+}
+
+/*==================================*/
+/*     Css de la page index         */
+/*==================================*/
+
+
+header{
+    text-align: center;
+}
+
+#aff{
+    text-align: center;
+}
+
+#entete{
+    width: 100%;
+}
+
+form{
+    margin-left: 50px;
+    display: inline-block;
+}
+
+#entete{
+    margin-right: 50%;
+}
+
+#affiche{
+    text-align: center;
+    width: 100%;
+    margin-top: 50px;
+}
+
+/*==================================*/
+/*      Css de la page fiche        */
+/*==================================*/
+
+#ingredients{
+    width: 25%;
+    text-align: center;
+    border: 2px solid;
+    border-color: #000000;
+    background-color: #0066CC;
+    margin-top: 2%;
+    margin-left: 60%;
+}
+
+.aff{
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px solid;
+    border-color: #FFFFFF;
+}
+
+/*==================================*/
+/*   Css de la page formulaire      */
+/*==================================*/
+
+#formulaire{
+    margin-top: 2%;
+    margin-left: 10%;
+}
+

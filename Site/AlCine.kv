@@ -1,0 +1,25 @@
+AlCine:
+    rows: 4
+    cols: 1
+
+    output_info: informations
+    movies_supp: movies
+
+    Label:
+        text: 'Interface admin de AlCine'
+        size_hint_y: 1
+
+    Spinner:
+        id: movies
+        text: 'Films'
+        values: root.title_movies
+        size_hint_y: 1
+        on_text: root.Details_films(self.text)
+
+    TextInput:
+        id: informations
+        size_hint_y: 8
+
+    Button:
+        text: 'Delete'
+        on_press: root.Supprimer()

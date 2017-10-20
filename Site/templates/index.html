@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Al-Ciné</title>
+        <link rel="stylesheet" href="static/css/mystyle.css" type="text/css" />
+    </head>
+
+    <body>
+        <header>
+            <h1>Al-Cine</h1>
+            <h5><a href="index">Acceuil</a></h5>
+        </header>
+
+        <section id="entete">
+            <form method="post" action="/search">
+                <h2>L'abus d'alcool peut nuir à votre santé, c'est pour ça qu'il faut s'entrainer.</h2>
+                <p><b> Recherche:         <input  type ="text" name="recherche" />
+                    <input type ="submit" value="Search" />
+                    (N'oubliez pas un film commence toujours pas une majuscule)</p>
+            </form>
+        </section>
+
+        <section id="aff">
+            <div id="affiche">
+                {{film}}
+            </div>
+        </section>
+
+
+    </body>
+</html>

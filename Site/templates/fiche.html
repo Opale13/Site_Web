@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Al-Ciné</title>
+        <link rel="stylesheet" href="static/css/mystyle.css" type="text/css" />
+    </head>
+
+    <body>
+        <h1>Fiche du film: {{title}}</h1>
+
+        <a class="aff" href="index"><img src={{picture}} width="300" height="420"></a>
+
+        <h3>
+            Genre : {{genre}} <br> <br>
+            {{game}}
+        </h3>
+
+        <div id="ingredients">
+            <h2> {{boisson}} </h2>
+            <h5> Ingrédients : {{recipe}} </h5>
+        </div>
+
+    </body>
+</html>
